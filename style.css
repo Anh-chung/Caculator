@@ -9,8 +9,12 @@ body{
     padding: 0;
     box-sizing: border-box;
     background-color: #ecf0f3;
-    font-family: sans-serif;
+    font-family: oswald ;
     outline: none;
+}
+@font-face {
+    font-family: 'oswald';
+    src: url('./digital-7.regular.ttf');
 }
 .container{
     height: 68vh;
